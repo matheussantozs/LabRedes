@@ -1,4 +1,4 @@
-Nome: Matheus Santos Bezerra
-Matricula: 2024332233
-Turma 913A
+Nome: Matheus Santos Bezerra \n
+Matricula: 2024332233 \n
+Turma 913A \n
 Repositório direcionado à salvar as atividades.
